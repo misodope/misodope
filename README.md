@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Jerry Chen, a software engineer that dabbles in content creation. At heart, I'm a true nerd, passionate about improving my craft and sharing my experiences with others.
+I'm Jerry Chen, a software engineer that dabbles in content creation. At heart, I'm a true nerd, passionate about improving my craft and sharing my experiences with others!
 
 ## Connect with Me
 
